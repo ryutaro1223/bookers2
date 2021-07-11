@@ -2,12 +2,12 @@
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
-
+削除予定
 Things you may want to cover:
 *課題３の提出
 * Ruby version
 ruby 5.2
-削除予定
+
 * System dependencies
 
 * Configuration
